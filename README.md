@@ -4,6 +4,8 @@ for these teams: France, Germany, Spain, England, Brazil, Argentina at the upcom
 
 The complete notebook can be accessed [here](https://github.com/khanhnamle1994/fifa18/blob/master/Ideal_Team_Lineup_World_Cup_2018.ipynb).
 
+I also wrote an accompanied blog post: [FIFA World Cup 2018: A Data-Drive Approach to Ideal Team Line Up](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8).
+
 ![world-cup](images/fifa-world-cup-2018.jpg)
 
 ----------
