@@ -2,7 +2,7 @@ Original Dataset is collected at this [GitHub Repo](https://github.com/amanthedo
 I did an in-depth analysis and visualization on the FIFA18 dataset. The end goal is to predict the best possible international squad
 for these teams: France, Germany, Spain, England, Brazil, Argentina at the upcoming World Cup. 
 
-The complete notebook can be accessed [here](https://github.com/khanhnamle1994/fifa18/blob/master/Ideal_Team_Lineup_World_Cup_2018.ipynb).
+The complete notebook can be accessed [here](http://nbviewer.jupyter.org/github/khanhnamle1994/fifa18/blob/master/Ideal_Team_Lineup_World_Cup_2018.ipynb).
 
 I also wrote an accompanied blog post: [FIFA World Cup 2018: A Data-Drive Approach to Ideal Team Line Up](https://towardsdatascience.com/fifa-world-cup-2018-a-data-driven-approach-to-ideal-team-line-ups-93505cfe36f8).
 
